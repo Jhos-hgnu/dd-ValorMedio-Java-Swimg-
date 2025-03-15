@@ -11,6 +11,7 @@ import org.nfunk.jep.JEP;
  * @author jhosu
  */
 public class LogicaFuncion {
+    //
 
     int firstNumber;
     private String funcion = "";
